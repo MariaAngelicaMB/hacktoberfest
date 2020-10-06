@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Maria Angélica](https://github.com/MariaAngelicaMB)
+- Place: Goiania, Goias, Brazil
+- Bio: Frontend dev and graphic designer
+- GitHub: [Maria Angelica de Matos](https://github.com/MariaAngelicaMB)
